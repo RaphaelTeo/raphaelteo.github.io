@@ -1,1 +1,10 @@
-theme: jekyll-theme-tactile
+# basic options
+title: Welcome to my digital portfolio
+author: Raphael Teo
+email: your-email@domain.com
+description: A collection of projects by Raphael Teo
+github_username:  RaphaelTeo
+
+# Build settings
+markdown: kramdown
+theme: minimatheme: jekyll-theme-tactile
