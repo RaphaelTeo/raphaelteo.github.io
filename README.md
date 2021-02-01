@@ -1,6 +1,6 @@
-## Raphael's github portfolio
+# Raphael's github portfolio
 
-# Work in progress
+## Work in progress
 
 [About](./about.md).
 
